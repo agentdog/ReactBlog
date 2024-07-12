@@ -1,4 +1,7 @@
 import Home from './components/Home.jsx'
+import Counter from './components/Counter.jsx'
+import FetchData from './components/FetchData.jsx'
+import RankItems from './components/RankItems.jsx'
 
 const AppRoutes = [
     {
